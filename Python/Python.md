@@ -52,3 +52,9 @@ sudo easy_install pip
 sudo pip install virtualenv
 ```
 
+### Creación
+
+```bash
+virtualenv nombreDirectorio
+```
+
