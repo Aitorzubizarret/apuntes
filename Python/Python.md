@@ -58,4 +58,11 @@ sudo pip install virtualenv
 virtualenv nombreDirectorio
 ```
 
+### Activar el entorno virtual
+
+Una vez que estamos en el directorio que se ha creado cuando hemos creado el entorno virtual escribiremos el siguiente comando en la consola.
+
+```bash
+source bin/activate
+```
 
