@@ -36,4 +36,6 @@ sudo easy_install pip
 
 [Link](http://www.3engine.net/wp/2013/12/python-como-instalar-pip/)
 
+[Link](https://wiki.python.org/moin/CheeseShopTutorial)
+
 ### Instalación de 
