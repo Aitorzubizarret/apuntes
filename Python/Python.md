@@ -31,3 +31,7 @@ Para poder usar PIP, primero tendremos que instalarlo, para ello escribiremos el
 ```bash
 sudo easy_install pip
 ```
+
+[Link](https://lcaballero.wordpress.com/2013/03/14/instalacion-de-paquetes-python-con-setuptools-y-easyinstall/)
+
+### Instalación de 
