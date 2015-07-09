@@ -48,4 +48,7 @@ sudo easy_install pip
 
 ### Instalación
 
+```bash
+sudo pip install virtualenv
+```
 
