@@ -19,3 +19,9 @@ exit()
 PIP es un sistema de gestión de paquetes que se utiliza para instalar y gestionar paquetes de software escritos en Python.
 
 Muchos de esos paquetes de software se pueden encontrar en el [Índice de Paquetes de Python](https://pypi.python.org/pypi).
+
+Para poder usar PIP primero tendremos que instalarlo, para ello escribiremos el siguiente comando en la consola.
+
+```bash
+sudo easy_install pip
+```
