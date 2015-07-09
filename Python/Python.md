@@ -38,4 +38,6 @@ sudo easy_install pip
 
 [Link](https://wiki.python.org/moin/CheeseShopTutorial)
 
+[Link](https://plone.org/countries/mx/instalacion-de-setuptools-y-easyinstall-para-python)
+
 ### Instalación de 
