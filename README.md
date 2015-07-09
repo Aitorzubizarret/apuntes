@@ -1,2 +1,2 @@
-# apuntes
+# Apuntes sobre desarrollo
 Apuntes sobre desarrollo
