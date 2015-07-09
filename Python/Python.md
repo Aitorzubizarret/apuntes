@@ -44,4 +44,6 @@ sudo easy_install pip
 
 [Oficial](https://pypi.python.org/pypi/virtualenv/)
 
+[Link](https://lcaballero.wordpress.com/2012/10/22/creacion-de-entornos-virtuales-python/)
+
 
