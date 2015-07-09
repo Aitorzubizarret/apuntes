@@ -26,5 +26,5 @@ Para poder usar PIP primero tendremos que instalarlo, para ello escribiremos el 
 sudo easy_install pip
 ```
 
-[PIP en Wikipedia](https://en.wikipedia.org/wiki/Pip_(package_manager))
-[a][https://en.wikipedia.org/wiki/Pip_(package_manager)]
+[PIP en Wikipedia]
+[PIP en Wikipedia]: https://en.wikipedia.org/wiki/Pip_(package_manager)
