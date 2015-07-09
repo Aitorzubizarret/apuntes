@@ -34,4 +34,6 @@ sudo easy_install pip
 
 [Link](https://lcaballero.wordpress.com/2013/03/14/instalacion-de-paquetes-python-con-setuptools-y-easyinstall/)
 
+[Link](http://www.3engine.net/wp/2013/12/python-como-instalar-pip/)
+
 ### Instalación de 
