@@ -52,7 +52,7 @@ sudo easy_install pip
 sudo pip install virtualenv
 ```
 
-### Creación
+### Creación de un entorno virtual
 
 ```bash
 virtualenv nombreDirectorio
