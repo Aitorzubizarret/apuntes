@@ -1,6 +1,4 @@
-# Desarrollo en Android
-
-## Bluetooth
+# Bluetooth
 
 Toda la información sobre la API de Bluetooth en Android está disponíble en las siguientes webs oficiales.
 
