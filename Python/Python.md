@@ -40,6 +40,15 @@ sudo easy_install pip
 
 [Link](https://plone.org/countries/mx/instalacion-de-setuptools-y-easyinstall-para-python)
 
+### Freeze
+
+Para saber que tenemos instalado en la instancia de nuestro entorno virtual escribiremos
+
+```bash
+pip freeze
+```
+
+
 ## Virtualenv, Herramienta para crear entornos virtuales
 
 [Oficial](https://pypi.python.org/pypi/virtualenv/)
@@ -56,6 +65,12 @@ sudo pip install virtualenv
 
 ```bash
 virtualenv nombreDirectorio
+```
+
+Si ya tenemos el directorio creado, este será el comando
+
+```bash
+virtualenv .
 ```
 
 ### Activar el entorno virtual
