@@ -48,6 +48,15 @@ Para saber que tenemos instalado en la instancia de nuestro entorno virtual escr
 pip freeze
 ```
 
+### Instalación de paquetes
+
+```bash
+pip install django
+pip install django==1.8
+```
+
+En la primera línea instalaría la última versión de django, y en la segunda línea instalaría la versión 1.8 de django.
+
 
 ## Virtualenv, Herramienta para crear entornos virtuales
 
