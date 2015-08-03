@@ -38,3 +38,9 @@ A partir de la version 1.9 de django **syncdb** no funcionará.
 python manage.py createsuperuser
 ```
 
+## App
+
+```bash
+python manage.py startapp nombre
+```
+
