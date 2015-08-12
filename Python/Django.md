@@ -44,3 +44,4 @@ python manage.py createsuperuser
 python manage.py startapp nombre
 ```
 
+Las apps en django son pequeñas funcionalidades del proyecto.
