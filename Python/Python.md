@@ -90,3 +90,11 @@ Una vez que estamos en el directorio que se ha creado cuando hemos creado el ent
 source bin/activate
 ```
 
+## Programación en Python
+
+### Funciones
+
+```python
+def holamundo():
+    return "Hola Mundo"
+```
