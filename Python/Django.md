@@ -40,8 +40,36 @@ python manage.py createsuperuser
 
 ## App
 
+Las apps en django son pequeñas funcionalidades del proyecto.
+
+Un ejemplo de app podría ser el panel de administrador "admin", y que es la encargada de gestionar solamente el panel de administrador.
+
+Para crear una app tendremos que ejecutar el siguiente código.
+
 ```bash
 python manage.py startapp nombre
 ```
+Al crear una app nos creará una carpeta con el nombre de la app y con los siguientes archivos:
 
-Las apps en django son pequeñas funcionalidades del proyecto.
+- Un directorio con el nombre **migrations** que contendrá un archivo **\_init_.py**.
+- 4 archivos: 
+    - admin.py
+    - models.py
+    - tests.py
+    - views.py
+
+## Ficheros
+
+### urls.py
+
+### \_init_.py
+Son ficheros que python los reconoce como módulos. No hace falta editarlos, ya que normalmente suelen estar vacios.
+
+### admin.py
+
+### models.py
+
+### tests.py
+
+### views.py
+
