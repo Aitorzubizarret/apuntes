@@ -3,7 +3,7 @@
 
 ## Startproject
 ```bash
-django-admin.py startproject congresomadrid
+django-admin.py startproject holamundo
 ```
 
 ## Run server
